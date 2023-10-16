@@ -1,0 +1,126 @@
+#title {
+  position: relative;
+}
+
+#information {
+  text-align: left;
+  padding: 2% 15% 7%;
+}
+
+#values {
+  background-color: #28a745;
+  text-align: center;
+  padding: 7% 5%;
+}
+
+#footer {
+  background-color: #28a745;
+  text-align: center;
+  padding: 10% 0 2%;
+}
+
+#team {
+  text-align: center;
+  padding: 0 5% 2%;
+}
+
+#team img {
+  border-radius: 50%;
+  width: 18rem;
+  height: 18rem;
+  transition: all 300ms ease-in-out 0s;
+  margin-top: 30px;
+}
+
+#team img:hover {
+  height: 20rem;
+  width: 20rem;
+}
+
+#team a {
+  text-decoration: none;
+  color: #28a745;
+}
+#team a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: "Kanit", sans-serif;
+}
+
+h3 {
+  margin: 30px auto;
+  /* color: #28a745; */
+  font-family: "Kanit", sans-serif;
+}
+
+h4 {
+  margin: 10px 0 0;
+  font-family: "Kanit", sans-serif;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+p,
+small {
+  font-family: "Poppins", sans-serif;
+}
+
+.val {
+  display: inline-block;
+  margin: 2rem 3rem;
+}
+
+.val:hover,
+.info-details {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 1%;
+}
+
+.about {
+  padding: 10% 5%;
+}
+
+.navbar {
+  background-color: #28a745;
+  padding: 20px 10px 5px 30px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.about-title {
+  background-color: #28a745;
+  padding: 70px 20px;
+}
+
+.about-title p {
+  padding-right: 25%;
+  line-height: 1.5;
+}
+
+.img {
+  height: auto;
+  width: auto;
+}
+
+.icon-f {
+  margin: 0 8px;
+  color: #28a745;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+  border-radius: 30%;
+}
+
+.color {
+  background-color: #28a745;
+}

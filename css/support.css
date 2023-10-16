@@ -1,0 +1,100 @@
+#title {
+  position: relative;
+}
+
+#support {
+  padding: 8% 5%;
+}
+
+#volunteer {
+  margin: 4% 0;
+  padding: 5%;
+  background-color: #28a745;
+  text-align: center;
+}
+
+#volunteer h6 {
+  color: black;
+}
+
+.call-for-support h6 {
+  margin-bottom: 40px;
+}
+
+.navbar {
+  background-color: #28a745;
+  padding: 10px 10px 10px 30px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+  border-radius: 30%;
+}
+
+.support-title {
+  background-color: #28a745;
+  padding: 70px 20px;
+}
+
+.support-title p {
+  padding-right: 3%;
+}
+
+.support-container {
+  border: solid 2px yellow;
+  padding: 30px;
+  margin: 5% 2% 0;
+  /* display: inline-block; */
+}
+
+.support-container h6 {
+  font-size: 20px;
+}
+
+.fund {
+  margin: 30px 0 50px;
+}
+
+/* #volunteer h5 {
+  font-size: 24px;
+} */
+
+.support-img {
+  margin-bottom: 7%;
+  display: flex;
+  justify-content: center;
+}
+
+.support-img img {
+  height: 50%;
+  width: 50%;
+}
+
+h2,
+h3,
+h5,
+span {
+  font-family: "Kanit", sans-serif;
+}
+
+h6 {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  line-height: 2;
+  color: #737373;
+}
+
+.icon-f {
+  margin: 0 8px;
+  color: #28a745;
+}
+
+.volunteer-container a {
+  color: yellow;
+  text-decoration: none;
+}

@@ -1,0 +1,62 @@
+#title {
+  position: relative;
+}
+
+input,
+button {
+  display: inline-block;
+  margin-bottom: 7px;
+}
+
+h2,
+h3 {
+  font-family: "Kanit", sans-serif;
+}
+
+p,
+small {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  background-color: #28a745;
+  padding: 20px 10px 5px 30px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.contact-title {
+  background-color: #28a745;
+  padding: 70px 20px;
+}
+
+.contact-container {
+  border: solid 1px #28a745;
+  padding: 10% 10%;
+  margin: 7% 15% 5%;
+}
+
+.message-title {
+  margin-bottom: 20px;
+}
+
+.icon-f {
+  margin: 0 5px;
+  color: #28a745;
+  border: solid 1px #28a745;
+  padding: 3px;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+  border-radius: 30%;
+}
+
+@media screen and (max-width: 1180px) {
+  #contact-info {
+    padding: 10% 0;
+  }
+}
