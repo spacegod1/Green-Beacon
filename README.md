@@ -79,12 +79,6 @@ bun run start
 - **Primary Green**: `#28a745`
 - **Accent Yellow**: `#ffc107`
 
-## Fonts
-
-- **Oswald**: Hero headings
-- **Kanit**: Section headings and brand text
-- **Poppins**: Body text
-
 ## Contact
 
 - **Email**: greenbeacon2022@gmail.com
